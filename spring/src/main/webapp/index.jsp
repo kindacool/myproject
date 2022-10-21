@@ -9,7 +9,7 @@
 <body>
 <script>
 //	location.href = "test.do"
-	location.href = "boardlist.do";
+	 location.href = "boardlist.do";
 </script>
 </body>
 </html>
